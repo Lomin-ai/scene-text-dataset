@@ -18,7 +18,7 @@ lomin_scene_text_dataset/
 ├── LICENSE
 ├── README.md
 └── dataset/
-    ├── images
+    ├── images/
     └── gt.json
 ```
 </br>
