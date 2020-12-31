@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+dataset/
+*.jpg
+*.png
+*.jpeg
