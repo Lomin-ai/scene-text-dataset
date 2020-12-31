@@ -3,7 +3,7 @@
 ### Introduction
 Lomin Scene Text Dataset 데이터셋은 실생활에서 자주 볼 수 있는 다양한 환경의 글자들을 활용한 OCR 데이터셋입니다. </br>
 이미지는 주로 야외의 간판, 표지판과 같이 기존 OCR 기술로 인식하기 어려웠던 높은 자유도의 글자들을 포함하고 있습니다. </br>
-라벨링은 OCR 연구에 활용될 수 있도록 bounding box와 text 정보를 가지고 있습니다. </br>
+라벨링은 OCR 연구에 활용될 수 있도록 bounding box와 transcription 정보를 가지고 있습니다. </br>
 </br>
 
 
