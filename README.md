@@ -1,4 +1,4 @@
-# scene-text-dataset
+# Lomin Scene Text Dataset
 
 ### 데이터셋 소개
 
