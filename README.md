@@ -15,12 +15,16 @@ Lomin Scene Text Dataset 데이터셋은 실생활에서 자주 볼 수 있는 �
 
 
 ### 데이터셋 구조
+
 lomin_scene_text_dataset
 ├── images
 ├── gt.json
 ├── LICENSE
 └── README.md
 
+
+### 샘플 이미지
+![sample_001](src/sample_001.png)
 
 ### 라이센스
 본 데이터셋은 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) 라이센스를 따릅니다.
