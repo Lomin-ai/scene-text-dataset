@@ -25,6 +25,7 @@ lomin_scene_text_dataset
 
 ### 샘플 이미지
 ![sample_001](src/sample_001.png)
+![sample_002](src/sample_002.png)
 
 ### 라이센스
 본 데이터셋은 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) 라이센스를 따릅니다.
