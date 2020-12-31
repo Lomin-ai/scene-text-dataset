@@ -23,6 +23,9 @@ lomin_scene_text_dataset/
 ```
 </br>
 
+### Annotation
+
+
 ### Sample image
 ![sample_001](src/sample_001.png) </br>
 ![sample_002](src/sample_002.png) </br>
