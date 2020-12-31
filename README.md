@@ -39,3 +39,5 @@ lomin_scene_text_dataset/
 
 ### Acknowledgement 
 이 데이터셋은 2019년 과기정통부에서 주최한 그랜드 AI 챌린지에서 우승한 Lomin 팀이 IITP 후속과제의 지원을 받아 생성되었습니다. </br>
+
+
