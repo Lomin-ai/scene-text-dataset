@@ -130,6 +130,3 @@ dmypy.json
 
 
 dataset/
-*.jpg
-*.png
-*.jpeg
