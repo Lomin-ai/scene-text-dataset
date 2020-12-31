@@ -31,3 +31,4 @@ lomin_scene_text_dataset/
 
 ### 라이센스
 본 데이터셋은 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) 라이센스를 따릅니다.
+
