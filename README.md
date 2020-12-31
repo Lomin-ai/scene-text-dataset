@@ -10,6 +10,7 @@ Lomin Scene Text Dataset 데이터셋은 실생활에서 자주 볼 수 있는 �
 ### 다운로드
 
 전체 데이터셋은 다음 링크를 통하여 다운받을 수 있습니다. [link](lomin.ai) 
+
 (담당자: 임비 선임연구원 b.lim@lomin.ai)
 
 
