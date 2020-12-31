@@ -22,9 +22,11 @@ lomin_scene_text_dataset/
     └── gt.json
 ```
 </br>
-
+<!-- 
 ### Annotation
-
+```
+```
+ -->
 
 ### Sample image
 ![sample_001](src/sample_001.png) </br>
